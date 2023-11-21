@@ -1,1 +1,2 @@
-a1.__Hi()
+ def __init__(self, a, b):
+        super().__init__(a, b)
